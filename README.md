@@ -79,27 +79,27 @@ sbn.heatmap(df.corr(),annot=True)
 ## OUTPUT
 
 # EDA - SuperStore.csv
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k1.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k1.png)
 
 # Displaying information about Dataset
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k2.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k2.png)
 
 # Checking the null values and Cleaning it
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k3.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k3.png)
 
 # Displaying datatypes of each features
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
 
 # Multivariate Analysis - Scatterplot
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
 
 # Multivariate Analysis - Barplot
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k7.png)
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k8.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k7.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k8png)
 
 # Correlation Coefficient Interpretation using HeatMap
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k9.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k9.png)
 
 ## RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
