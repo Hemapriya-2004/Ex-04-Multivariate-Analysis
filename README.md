@@ -96,7 +96,7 @@ sbn.heatmap(df.corr(),annot=True)
 # Multivariate Analysis - Barplot
 ![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
 ![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k7.png)
-![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k8png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k8.png)
 
 # Correlation Coefficient Interpretation using HeatMap
 ![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k9.png)
