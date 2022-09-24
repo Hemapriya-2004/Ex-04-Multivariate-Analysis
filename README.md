@@ -91,7 +91,7 @@ sbn.heatmap(df.corr(),annot=True)
 ![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
 
 # Multivariate Analysis - Scatterplot
-![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
+![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k5.png?raw=true)
 
 # Multivariate Analysis - Barplot
 ![output](https://github.com/Hemapriya-2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
